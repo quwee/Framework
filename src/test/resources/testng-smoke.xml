@@ -3,7 +3,7 @@
 <suite name="Smoke" verbose="1" >
     <test name="LegoCartTest">
         <classes>
-            <class name="test.LegoSearchTest" />
+            <class name="test.LegoCartTest" />
         </classes>
     </test>
 </suite>
